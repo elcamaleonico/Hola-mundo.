@@ -1,4 +1,3 @@
 # Hola-mundo.
 solo otro repositorio
-disp('Bienvenido al programa');
-input('Ingrese su nombre porfavor');
+Intento de aprendisaje sobre la web y algo de programacion que con suerte sera ultil en un futuro xddd
